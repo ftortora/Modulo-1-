@@ -1,0 +1,112 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+} 
+
+.logo {
+width: 100px;
+}
+
+.logo-container{
+text-align: center;
+margin: 5px auto;
+}
+.container-bottom {
+background-color: antiquewhite;
+padding: 10px;
+}
+.container {
+    text-align: center;
+    font: 900;
+    color: #333;
+}
+.title {
+font-size: 1,5em;
+font-weight: bold;
+text-align: center;
+width: 50%;
+margin: 0 auto;
+padding: 10px;
+margin-top: 20px;
+}
+
+.under-title  {
+text-align: center;
+width: 50%;
+margin: 0 auto;
+}
+
+
+.image {
+margin: 0 auto;
+width: 800px;
+height: 600px;
+display: block;
+border: 2px solid #333;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+object-fit: cover;
+}
+
+.mention {
+text-align: center;
+font-size: 0.8em;
+color: #666;
+margin-top:8px;
+}
+
+.more-recepies  {
+margin-top: 30px;
+width: 50%;
+margin: 0 auto;
+text-align: left;
+border-left: rgba(255, 255, 0, 0.678) 2px solid;
+padding : 10px;
+}
+
+.ingredients{
+margin-top: 20px;
+width: 50%;
+margin: 0 auto;
+text-align: left;
+}
+hr {
+margin: 20px auto;
+width: 50%;
+border: 1px solid #0b15dc;
+}
+
+.recipe-1 {
+margin-top: 20px;
+width: 45%;
+margin: 0 auto;
+text-align: left;
+}
+li {
+list-style-type: disc;
+margin-left: 20px;
+width: 45%;
+text-align: left;
+}
+ h3 {
+font-size: 1.2em;
+font-weight: bold;
+margin-top: 10px;
+}
+
+.method {
+margin-top: 20px;
+width: 50%;
+margin: 0 auto;
+text-align: left;
+}
+
+.footer {
+
+padding: 20px;
+text-align: center;
+font-size: 0.8em;
+margin-top: 20px;
+width: 70%;
+}
